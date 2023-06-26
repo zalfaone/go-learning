@@ -12,7 +12,7 @@ func registerUser(name string, blacklist Blacklist) {
 	}
 }
 
-func main() {
+func anonymousFunction() {
 	blacklist := func(name string) bool {
 		return name == "admin"
 	}

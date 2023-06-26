@@ -8,7 +8,7 @@ func getCompleteName() (firstName, lastName string) {
 	return
 }
 
-func main() {
+func functionNamedReturnValue() {
 	firstName, lastName := getCompleteName()
 	fmt.Println(getCompleteName())
 	fmt.Println(firstName)

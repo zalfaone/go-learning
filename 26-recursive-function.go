@@ -18,7 +18,7 @@ func factorialRecursive(value int) int {
 	}
 }
 
-func main() {
+func recursive() {
 	loop := factorialLoop(5)
 	fmt.Println(loop)
 	fmt.Println(5 * 4 * 3 * 2 * 1)

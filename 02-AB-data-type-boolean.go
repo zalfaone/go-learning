@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func dataTypeBoolean() {
 	fmt.Println("Benar = ", true)
 	fmt.Println("Salah = ", false)
 }

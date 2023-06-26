@@ -16,7 +16,7 @@ func filterSpam(name string) string {
 	return name
 }
 
-func main() {
+func functionAsParameter() {
 	sayHelloWithFilter("Leon S Kennedy", filterSpam)
 	sayHelloWithFilter("Anjing", filterSpam)
 

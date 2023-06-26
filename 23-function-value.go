@@ -6,7 +6,7 @@ func getHelloChief(name string) string {
 	return "Hello Chief " + name
 }
 
-func main() {
+func functionValue() {
 	hellochief := getHelloChief
 	fmt.Println(hellochief("Leon"))
 }
