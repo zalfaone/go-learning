@@ -8,4 +8,5 @@ func helloWorld() {
 	fmt.Println("Hello world! Test 2")
 	fmt.Println("Hello world! Test 3")
 	fmt.Println("Hello world! Test 4")
+	fmt.Println("Hello world! Test 5")
 }
