@@ -34,3 +34,7 @@ func switchExpression() {
 		fmt.Println("You can start war now, or it's better to bring more weapons.")
 	}
 }
+
+func main() {
+	switchExpression()
+}

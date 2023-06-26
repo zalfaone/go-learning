@@ -11,3 +11,7 @@ func constant() {
 
 	fmt.Println(firstname)
 }
+
+func main() {
+	constant()
+}

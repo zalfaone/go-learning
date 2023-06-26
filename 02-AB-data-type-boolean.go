@@ -6,3 +6,7 @@ func dataTypeBoolean() {
 	fmt.Println("Benar = ", true)
 	fmt.Println("Salah = ", false)
 }
+
+func main() {
+	dataTypeBoolean()
+}

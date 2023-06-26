@@ -24,3 +24,7 @@ func arrayDataType() {
 	products[0] = "Spoon"
 	fmt.Println(products)
 }
+
+func main() {
+	arrayDataType()
+}

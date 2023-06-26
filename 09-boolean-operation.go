@@ -15,3 +15,7 @@ func booleanOperator() {
 	fmt.Println(lulus)
 
 }
+
+func main() {
+	booleanOperator()
+}

@@ -13,3 +13,7 @@ func functionReturnValue() {
 	fmt.Println(getHello("Claire"))
 
 }
+
+func main() {
+	functionReturnValue()
+}

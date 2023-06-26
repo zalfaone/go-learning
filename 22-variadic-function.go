@@ -19,3 +19,7 @@ func variadicFunction() {
 	total = sumNumbers(slice...)
 	fmt.Println(total)
 }
+
+func main() {
+	variadicFunction()
+}

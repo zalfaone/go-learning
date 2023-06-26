@@ -7,3 +7,7 @@ func dataTypeNumber() {
 	fmt.Println("Dua = ", 2)
 	fmt.Println("Tiga Koma Lima = ", 3.5)
 }
+
+func main() {
+	dataTypeString()
+}

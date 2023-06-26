@@ -15,3 +15,7 @@ func comparationOperator() {
 	fmt.Println(a != b)
 
 }
+
+func main() {
+	comparationOperator()
+}

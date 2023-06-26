@@ -31,3 +31,7 @@ func breakForLoopExpression() {
 	}
 
 }
+
+func main() {
+	breakForLoopExpression()
+}

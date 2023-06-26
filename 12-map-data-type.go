@@ -27,3 +27,7 @@ func mapDataType() {
 	fmt.Println(len(book))
 
 }
+
+func main() {
+	mapDataType()
+}

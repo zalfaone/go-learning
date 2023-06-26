@@ -18,3 +18,7 @@ func convertDataType() {
 	fmt.Println(e)
 	fmt.Println(eString)
 }
+
+func main() {
+	convertDataType()
+}

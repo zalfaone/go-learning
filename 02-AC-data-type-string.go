@@ -11,3 +11,7 @@ func dataTypeString() {
 	fmt.Println("Leon S Kennedy"[0])
 	fmt.Println("Ada Wong"[1])
 }
+
+func main() {
+	dataTypeString()
+}

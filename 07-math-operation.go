@@ -24,3 +24,7 @@ func mathOperation() {
 	fmt.Println(positive)
 
 }
+
+func main() {
+	mathOperation()
+}

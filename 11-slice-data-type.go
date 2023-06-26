@@ -52,3 +52,7 @@ func sliceDataType() {
 	fmt.Println(thisSlice)
 
 }
+
+func main() {
+	sliceDataType()
+}

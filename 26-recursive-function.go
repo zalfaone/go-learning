@@ -27,3 +27,7 @@ func recursive() {
 	fmt.Println(recursive)
 
 }
+
+func main() {
+	recursive()
+}

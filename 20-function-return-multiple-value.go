@@ -14,3 +14,7 @@ func functionReturnMultipleValue() {
 	firstName, _ := getFullName()
 	fmt.Println(firstName)
 }
+
+func main() {
+	functionReturnMultipleValue()
+}

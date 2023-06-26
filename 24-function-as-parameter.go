@@ -24,3 +24,7 @@ func functionAsParameter() {
 	sayHelloWithFilter("Claire Redfield", hellofilter)
 
 }
+
+func main() {
+	functionAsParameter()
+}

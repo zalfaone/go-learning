@@ -21,3 +21,7 @@ func closureFunction() {
 	fmt.Println(name)
 
 }
+
+func main() {
+	closureFunction()
+}

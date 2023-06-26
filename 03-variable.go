@@ -27,3 +27,7 @@ func variable() {
 	fmt.Println(chapter)
 	fmt.Println(part)
 }
+
+func main() {
+	variable()
+}

@@ -11,3 +11,7 @@ func typeDeclaration() {
 	fmt.Println(noKtpLeon)
 	fmt.Println(marriedStatus)
 }
+
+func main() {
+	typeDeclaration()
+}

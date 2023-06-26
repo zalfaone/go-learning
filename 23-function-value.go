@@ -10,3 +10,7 @@ func functionValue() {
 	hellochief := getHelloChief
 	fmt.Println(hellochief("Leon"))
 }
+
+func main() {
+	functionValue()
+}

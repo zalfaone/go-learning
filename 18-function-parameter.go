@@ -9,3 +9,7 @@ func sayHelloTo(firstName string) {
 func functionParameter() {
 	sayHelloTo("Leon")
 }
+
+func main() {
+	functionParameter()
+}

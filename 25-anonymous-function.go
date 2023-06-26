@@ -25,3 +25,7 @@ func anonymousFunction() {
 	})
 
 }
+
+func main() {
+	anonymousFunction()
+}

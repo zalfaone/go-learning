@@ -26,3 +26,7 @@ func forLoopsExpression() {
 		// fmt.Println(value)
 	}
 }
+
+func main() {
+	forLoopsExpression()
+}

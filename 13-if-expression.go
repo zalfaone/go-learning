@@ -20,3 +20,7 @@ func ifExpression() {
 	}
 
 }
+
+func main() {
+	ifExpression()
+}

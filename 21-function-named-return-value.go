@@ -14,3 +14,7 @@ func functionNamedReturnValue() {
 	fmt.Println(firstName)
 	fmt.Println(lastName)
 }
+
+func main() {
+	functionNamedReturnValue()
+}
