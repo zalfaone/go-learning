@@ -11,7 +11,7 @@ func sumNumbers(numbers ...int) int {
 	return total
 }
 
-func main() {
+func variadicFunction() {
 	total := sumNumbers(10, 10, 20, 50)
 	fmt.Println(total)
 

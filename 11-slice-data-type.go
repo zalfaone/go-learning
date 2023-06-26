@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func sliceDataType() {
 	var months = [...]string{
 		"January",
 		"February",

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func switchExpression() {
 	name := "Albert Whesker"
 
 	switch name {

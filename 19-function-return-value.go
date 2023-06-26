@@ -6,7 +6,7 @@ func getHello(name string) string {
 	return name
 }
 
-func main() {
+func functionReturnValue() {
 	result := getHello("Leon")
 	fmt.Println(result)
 

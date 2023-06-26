@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func booleanOperator() {
 	var ujian = 80
 	var absensi = 74
 

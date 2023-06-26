@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func sayHelloTo(firstName string, lastName string) {
+func sayHelloTo(firstName string) {
 	fmt.Println("Hello ", firstName)
 }
 
-func main() {
+func functionParameter() {
 	sayHelloTo("Leon")
 }

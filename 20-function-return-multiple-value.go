@@ -6,7 +6,7 @@ func getFullName() (string, string) {
 	return "Leon", "Kennedy"
 }
 
-func main() {
+func functionReturnMultipleValue() {
 	// firstName, lastName := getFullName()
 	// fmt.Println(firstName)
 	// fmt.Println(lastName)

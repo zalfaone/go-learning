@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func comparationOperator() {
 	var name1 = "Leon Kennedy"
 	var name2 = "Ada Wong"
 	fmt.Println(name1 > name2)

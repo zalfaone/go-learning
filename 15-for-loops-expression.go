@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func forLoopsExpression() {
 	counter := 1
 
 	for counter <= 10 {

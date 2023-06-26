@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func dataTypeString() {
 	fmt.Println("Leon")
 	fmt.Println("Leon S Kennedy")
 	fmt.Println("Ada Wong")

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func typeDeclaration() {
 	type NoKTP string
 	type Married bool
 

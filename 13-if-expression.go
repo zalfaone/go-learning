@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func ifExpression() {
 	var name = "Ada"
 
 	if name == "Leon" {

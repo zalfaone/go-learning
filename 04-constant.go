@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func constant() {
 	const (
 		firstname string = "Leon"
 		lastname         = "Kennedy"
