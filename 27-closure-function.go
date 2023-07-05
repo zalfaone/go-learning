@@ -12,7 +12,6 @@ func closureFunction() {
 		fmt.Println(counter)
 		counter++
 		fmt.Println(name)
-		fmt.Println(name)
 	}
 
 	increment()
